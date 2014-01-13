@@ -1,3 +1,3 @@
-PitCraft
+                       mc.PitCraft.net
 ========
-this is where you post Pitcraft server Issues/Bugs/Glitches in issues
+This is where you post Pitcraft server Issues/Bugs/Glitches in issues to have fixed by admins
